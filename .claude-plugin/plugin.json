@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "common",
+  "version": "0.1.0",
+  "description": "General-purpose agent skills: designing dashboards, reports and operational consoles; writing plainly for people and for other agents.",
+  "author": { "name": "Luke Bradford", "url": "https://github.com/Luke-Bradford" },
+  "homepage": "https://github.com/Luke-Bradford/skills",
+  "repository": "https://github.com/Luke-Bradford/skills",
+  "license": "MIT",
+  "keywords": ["skills", "dashboard", "data-visualization", "kpi", "reports", "writing", "plain-language"],
+  "skills": ["./skills/designing-dashboards", "./skills/plain-talk"]
+}

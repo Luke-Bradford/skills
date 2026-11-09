@@ -1,0 +1,13 @@
+{
+  "name": "luke-bradford",
+  "owner": { "name": "Luke Bradford", "url": "https://github.com/Luke-Bradford" },
+  "metadata": { "description": "General-purpose agent skills, usable in any project." },
+  "plugins": [
+    {
+      "name": "common",
+      "source": "./",
+      "description": "Designing dashboards, reports and operational consoles; writing plainly for people and for other agents.",
+      "version": "0.1.0"
+    }
+  ]
+}

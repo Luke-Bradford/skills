@@ -37,7 +37,7 @@ the project's skills directory, for example `.claude/skills/`, or into your pers
 
 ## Contributing
 
-Issues and pull requests are welcome. For a change to a rule, say what went wrong without it and cite a
+Issues and pull requests are welcome. Run `python3 scripts/check_skills.py` before opening one; CI runs the same check. For a change to a rule, say what went wrong without it and cite a
 source where one exists. Keep skills free of project names, product names and stack-specific code.
 
 ## Licence
